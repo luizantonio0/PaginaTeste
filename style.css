@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body{
+    font-family: Roboto Mono;
+    background-color: rgb(160, 190, 245);
+    margin: 0 auto;
+}
+
+.main{
+    max-width: 1500px;
+    padding: 25px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#img1{
+    width: 400px;
+    height: 200px;
+}
+
+h2{
+    color: blue;
+    font-size: 70px;
+}
+h4{
+    color: darkblue;
+    font-family: Coming Soon;
+}
